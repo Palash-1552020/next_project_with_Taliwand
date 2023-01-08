@@ -10,7 +10,7 @@ const Hero = ({ Massage, Heading }) => {
         <p className=" py-5 text-xl">{Massage}</p>
         <div>
           <button className=" border py-2 px-4 rounded font-semibold">
-            Book Here
+            Book Heree
           </button>
         </div>
       </div>
